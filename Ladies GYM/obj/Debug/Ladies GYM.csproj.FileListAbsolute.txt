@@ -1,0 +1,7 @@
+D:\bin\Ladies GYM\obj\Debug\Ladies GYM.csproj.AssemblyReference.cache
+D:\bin\Ladies GYM\obj\Debug\Ladies_GYM.Form1.resources
+D:\bin\Ladies GYM\obj\Debug\Ladies_GYM.FrmAddnewClient.resources
+D:\bin\Ladies GYM\obj\Debug\Ladies_GYM.FrmShowAllPersons.resources
+D:\bin\Ladies GYM\obj\Debug\Ladies_GYM.Properties.Resources.resources
+D:\bin\Ladies GYM\obj\Debug\Ladies GYM.csproj.GenerateResource.cache
+D:\bin\Ladies GYM\obj\Debug\Ladies GYM.csproj.CoreCompileInputs.cache
