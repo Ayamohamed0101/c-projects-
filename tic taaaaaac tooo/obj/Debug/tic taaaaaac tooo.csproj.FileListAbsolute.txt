@@ -1,0 +1,10 @@
+D:\-----\tic taaaaaac tooo\bin\Debug\tic taaaaaac tooo.exe.config
+D:\-----\tic taaaaaac tooo\bin\Debug\tic taaaaaac tooo.exe
+D:\-----\tic taaaaaac tooo\bin\Debug\tic taaaaaac tooo.pdb
+D:\-----\tic taaaaaac tooo\obj\Debug\tic taaaaaac tooo.csproj.AssemblyReference.cache
+D:\-----\tic taaaaaac tooo\obj\Debug\tic_taaaaaac_tooo.Form1.resources
+D:\-----\tic taaaaaac tooo\obj\Debug\tic_taaaaaac_tooo.Properties.Resources.resources
+D:\-----\tic taaaaaac tooo\obj\Debug\tic taaaaaac tooo.csproj.GenerateResource.cache
+D:\-----\tic taaaaaac tooo\obj\Debug\tic taaaaaac tooo.csproj.CoreCompileInputs.cache
+D:\-----\tic taaaaaac tooo\obj\Debug\tic taaaaaac tooo.exe
+D:\-----\tic taaaaaac tooo\obj\Debug\tic taaaaaac tooo.pdb
