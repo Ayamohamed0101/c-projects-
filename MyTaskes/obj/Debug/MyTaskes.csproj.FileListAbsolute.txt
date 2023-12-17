@@ -1,0 +1,11 @@
+D:\bin\MyTaskes\bin\Debug\MyTaskes.exe.config
+D:\bin\MyTaskes\bin\Debug\MyTaskes.exe
+D:\bin\MyTaskes\bin\Debug\MyTaskes.pdb
+D:\bin\MyTaskes\obj\Debug\MyTaskes.csproj.AssemblyReference.cache
+D:\bin\MyTaskes\obj\Debug\MyTaskes.Form1.resources
+D:\bin\MyTaskes\obj\Debug\MyTaskes.Properties.Resources.resources
+D:\bin\MyTaskes\obj\Debug\MyTaskes.csproj.GenerateResource.cache
+D:\bin\MyTaskes\obj\Debug\MyTaskes.csproj.CoreCompileInputs.cache
+D:\bin\MyTaskes\obj\Debug\MyTaskes.exe
+D:\bin\MyTaskes\obj\Debug\MyTaskes.pdb
+D:\bin\MyTaskes\obj\Debug\MyTaskes.Form2Home.resources
