@@ -1,0 +1,11 @@
+D:\bin\FirstProjectInCsharp1FoodOrder\bin\Debug\FirstProjectInCsharp1FoodOrder.exe.config
+D:\bin\FirstProjectInCsharp1FoodOrder\bin\Debug\FirstProjectInCsharp1FoodOrder.exe
+D:\bin\FirstProjectInCsharp1FoodOrder\bin\Debug\FirstProjectInCsharp1FoodOrder.pdb
+D:\bin\FirstProjectInCsharp1FoodOrder\obj\Debug\FirstProjectInCsharp1FoodOrder.csproj.AssemblyReference.cache
+D:\bin\FirstProjectInCsharp1FoodOrder\obj\Debug\FirstProjectInCsharp1FoodOrder.Form1.resources
+D:\bin\FirstProjectInCsharp1FoodOrder\obj\Debug\FirstProjectInCsharp1FoodOrder.Properties.Resources.resources
+D:\bin\FirstProjectInCsharp1FoodOrder\obj\Debug\FirstProjectInCsharp1FoodOrder.csproj.GenerateResource.cache
+D:\bin\FirstProjectInCsharp1FoodOrder\obj\Debug\FirstProjectInCsharp1FoodOrder.csproj.CoreCompileInputs.cache
+D:\bin\FirstProjectInCsharp1FoodOrder\obj\Debug\FirstProjectInCsharp1FoodOrder.exe
+D:\bin\FirstProjectInCsharp1FoodOrder\obj\Debug\FirstProjectInCsharp1FoodOrder.pdb
+D:\bin\FirstProjectInCsharp1FoodOrder\obj\Debug\FirstProjectInCsharp1FoodOrder.Form2.resources
